@@ -24,6 +24,7 @@
     },
     "scripts": {
         "start": "craco start",
+        "start:server": "json-server --watch db.json --port 3004",
         "build": "craco build",
         "test": "craco test",
         "tsc": "tsc --noEmit",
