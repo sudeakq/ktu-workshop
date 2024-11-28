@@ -1,4 +1,4 @@
-#React Counter Project
+# React Counter Project
 This Repository contains React Workshop codes. 
 We made counter project with react
 
